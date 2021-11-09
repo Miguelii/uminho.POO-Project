@@ -1,1 +1,6 @@
-# Programa-o-Orientada-a-Objetos---Java-Project-
+*Avaliaçao do projeto final : 16 valores*
+
+Melhorias a fazer no projeto:
+- Adicionar eventos durante os jogos (faltas, fora de jogos e cartões)
+- Estatísticas depois de um jogo (posse de bola, remates à baliza)
+  
