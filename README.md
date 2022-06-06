@@ -1,4 +1,4 @@
-*Avaliaçao do projeto final : 16 valores*
+Nota final : 16 valores
 
 Melhorias a fazer no projeto:
 - Adicionar eventos durante os jogos (faltas, fora de jogos e cartões)
